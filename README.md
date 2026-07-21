@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
