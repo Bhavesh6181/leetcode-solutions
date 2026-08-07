@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0031-next-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
