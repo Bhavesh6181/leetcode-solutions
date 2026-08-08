@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0486-predict-the-winner](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
