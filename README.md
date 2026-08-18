@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0220-contains-duplicate-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0486-predict-the-winner](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -206,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Bhavesh6181/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
